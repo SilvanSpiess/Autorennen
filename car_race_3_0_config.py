@@ -46,7 +46,7 @@ MAX_STATS = {
 
 CAR_POS = {
     "player1": [393, 666],
-    "player2": [393, 696]
+    "player2": [393, 693]
 }
 
 DISPLAY_POS = {
