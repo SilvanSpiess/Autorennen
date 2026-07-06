@@ -21,18 +21,22 @@ Windows:
 
 MacOS
 ```sh
-sh \<drag buidl file here\>
+sh \<drag build file here\>
 ```
 ---
 
 ## Screenshots
 
 ### Car Selection Menu
-> `[ PLACEHOLDER: Insert selection_screen.png here ]`
-> *Choose your vehicle based on real-time balancing stats.*
+<img width="965" height="483" alt="selection" src="https://github.com/user-attachments/assets/bd0ea5e3-170a-46ed-b728-d3892362bd92" />
+> Choose your vehicle based on car specific balancing stats.
 
 ### Gameplay Layout
-> `[ PLACEHOLDER: Insert gameplay_screen.png here ]`
-> *Watch the gantry drop, time your launch, and fight for the fastest lap.*
+<img width="1180" height="1034" alt="race" src="https://github.com/user-attachments/assets/ec246dfb-fee2-434f-b1b6-1f3a605bfaf8" />
+> Watch the gantry drop, time your launch, and fight for the fastest lap.
+
+### Result Layout
+<img width="1180" height="1034" alt="result" src="https://github.com/user-attachments/assets/6856f77d-bdc4-4477-b641-e81350f8a7aa" />
+> Once a player wins, check out the results and who did the fastest lap!
 
 ---
